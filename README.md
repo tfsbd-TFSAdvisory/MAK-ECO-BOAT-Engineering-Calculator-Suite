@@ -23,4 +23,5 @@ Results are preliminary engineering estimates. Verify critical values independen
 Md. Alaul Karim Mukul, Founder & CEO, TFSBD
 a.karim@tfsbd.com | www.tfsbd.com
 
-বাংলা: এটি TFSBD-এর বিনামূল্যের Windows ইঞ্জিনিয়ারিং ক্যালকুলেটর অ্যাপ। ডাউনলোডের জন্য ডান পাশের **Releases** থেকে Setup বা Portable বেছে নিন।
+বাংলা: এটি MAK ECO BOAT-এর বিনামূল্যের Windows ইঞ্জিনিয়ারিং ক্যালকুলেটর অ্যাপ। ডাউনলোডের জন্য ডান পাশের **Releases** থেকে Setup বা Portable বেছে নিন।
+Free Windows desktop app by Trade Finance Solution Bangladesh (TFSBD) / MAK Tech: general, RF, BLDC motor and MAK ECO Boat specification calculators. Windows 64-bit.

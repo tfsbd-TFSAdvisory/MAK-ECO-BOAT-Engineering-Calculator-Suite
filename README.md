@@ -1,4 +1,4 @@
-# TFSBD Engineering Calculator Suite
+# 	MAK-ECO-BOAT-Engineering-Calculator-Suite
 
 Free Windows desktop app by Trade Finance Solution Bangladesh (TFSBD): general, RF, BLDC motor and MAK ECO Boat engineering calculators. Windows 64-bit.
 
